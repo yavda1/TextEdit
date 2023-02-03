@@ -1,0 +1,193 @@
+Apple Braille Outline 6 Dot
+Apple Braille Outline 8 Dot
+Apple Braille Pinpoint 6 Dot
+Apple Braille Pinpoint 8 Dot
+Apple Braille
+Apple Symbols
+Keyboard
+NewYork
+NewYorkItalic
+SFCompact
+SFCompactItalic
+SFCompactRounded
+SFNS
+SFNSItalic
+SFNSMono
+SFNSMonoItalic
+SFNSRounded
+Symbol
+ZapfDingbats
+Academy Engraved LET Fonts
+Andale Mono
+Apple Chancery
+AppleGothic
+AppleMyungjo
+Arial Black
+Arial Bold Italic
+Arial Bold
+Arial Italic
+Arial Narrow Bold Italic
+Arial Narrow Bold
+Arial Narrow Italic
+Arial Narrow
+Arial Rounded Bold
+Arial Unicode
+Arial
+Ayuthaya
+BigCaslon
+Bodoni 72 Smallcaps Book
+Bodoni Ornaments
+Bradley Hand Bold
+Brush Script
+Chalkduster
+Comic Sans MS Bold
+Comic Sans MS
+Courier New Bold Italic
+Courier New Bold
+Courier New Italic
+Courier New
+DIN Alternate Bold
+DIN Condensed Bold
+Diwan Thuluth
+Farisi
+Georgia Bold Italic
+Georgia Bold
+Georgia Italic
+Georgia
+Gurmukhi
+Herculanum
+Hoefler Text Ornaments
+Impact
+Khmer Sangam MN
+Kokonor
+Krungthep
+Lao Sangam MN
+Luminari
+Microsoft Sans Serif
+Mishafi Gold
+Mishafi
+NISC18030
+NotoSansAdlam-Regular
+NotoSansAvestan-Regular
+NotoSansBamum-Regular
+NotoSansBassaVah-Regular
+NotoSansBatak-Regular
+NotoSansBhaiksuki-Regular
+NotoSansBrahmi-Regular
+NotoSansBuginese-Regular
+NotoSansBuhid-Regular
+NotoSansCarian-Regular
+NotoSansCaucasianAlbanian-Regular
+NotoSansChakma-Regular
+NotoSansCham-Regular
+NotoSansCoptic-Regular
+NotoSansCuneiform-Regular
+NotoSansCypriot-Regular
+NotoSansDuployan-Regular
+NotoSansEgyptianHieroglyphs-Regular
+NotoSansElbasan-Regular
+NotoSansGlagolitic-Regular
+NotoSansGothic-Regular
+NotoSansHanifiRohingya-Regular
+NotoSansHanunoo-Regular
+NotoSansHatran-Regular
+NotoSansImperialAramaic-Regular
+NotoSansInscriptionalPahlavi-Regular
+NotoSansInscriptionalParthian-Regular
+NotoSansKaithi-Regular
+NotoSansKayahLi-Regular
+NotoSansKharoshthi-Regular
+NotoSansKhojki-Regular
+NotoSansKhudawadi-Regular
+NotoSansLepcha-Regular
+NotoSansLimbu-Regular
+NotoSansLinearA-Regular
+NotoSansLinearB-Regular
+NotoSansLisu-Regular
+NotoSansLycian-Regular
+NotoSansLydian-Regular
+NotoSansMahajani-Regular
+NotoSansMandaic-Regular
+NotoSansManichaean-Regular
+NotoSansMarchen-Regular
+NotoSansMeeteiMayek-Regular
+NotoSansMendeKikakui-Regular
+NotoSansMeroitic-Regular
+NotoSansMiao-Regular
+NotoSansModi-Regular
+NotoSansMongolian-Regular
+NotoSansMro-Regular
+NotoSansMultani-Regular
+NotoSansNKo-Regular
+NotoSansNabataean-Regular
+NotoSansNewTaiLue-Regular
+NotoSansNewa-Regular
+NotoSansOgham-Regular
+NotoSansOlChiki-Regular
+NotoSansOldHungarian-Regular
+NotoSansOldItalic-Regular
+NotoSansOldNorthArabian-Regular
+NotoSansOldPermic-Regular
+NotoSansOldPersian-Regular
+NotoSansOldSouthArabian-Regular
+NotoSansOldTurkic-Regular
+NotoSansOsage-Regular
+NotoSansOsmanya-Regular
+NotoSansPahawhHmong-Regular
+NotoSansPalmyrene-Regular
+NotoSansPauCinHau-Regular
+NotoSansPhagsPa-Regular
+NotoSansPhoenician-Regular
+NotoSansPsalterPahlavi-Regular
+NotoSansRejang-Regular
+NotoSansRunic-Regular
+NotoSansSamaritan-Regular
+NotoSansSaurashtra-Regular
+NotoSansSharada-Regular
+NotoSansShavian-Regular
+NotoSansSiddham-Regular
+NotoSansSoraSompeng-Regular
+NotoSansSundanese-Regular
+NotoSansSylotiNagri-Regular
+NotoSansSyriac-Regular
+NotoSansTagalog-Regular
+NotoSansTagbanwa-Regular
+NotoSansTaiLe-Regular
+NotoSansTaiTham-Regular
+NotoSansTaiViet-Regular
+NotoSansTakri-Regular
+NotoSansThaana-Regular
+NotoSansTifinagh-Regular
+NotoSansTirhuta-Regular
+NotoSansUgaritic-Regular
+NotoSansVai-Regular
+NotoSansWancho-Regular
+NotoSansWarangCiti-Regular
+NotoSansYi-Regular
+NotoSerifAhom-Regular
+NotoSerifBalinese-Regular
+PartyLET-plain
+PlantagenetCherokee
+Sathu
+Silom
+Skia
+Tahoma Bold
+Tahoma
+Times New Roman Bold Italic
+Times New Roman Bold
+Times New Roman Italic
+Times New Roman
+Trattatello
+Trebuchet MS Bold Italic
+Trebuchet MS Bold
+Trebuchet MS Italic
+Trebuchet MS
+Verdana Bold Italic
+Verdana Bold
+Verdana Italic
+Verdana
+Webdings
+Wingdings 2
+Wingdings 3
+Wingdings
+Zapfino
