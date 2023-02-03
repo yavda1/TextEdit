@@ -1,2 +1,2 @@
 # TextEdit
-see here(yavda1.ga) for download
+see [here](yavda1.ga/textedit) for download
