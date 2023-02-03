@@ -1,0 +1,10 @@
+25
+Light Mode
+Arial
+TKExtensions
+#ff0009
+#9336ff
+#37ff41
+#ff8940
+#5e43ff
+#ff2100
